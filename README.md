@@ -1,6 +1,6 @@
 # Predicting-Life-Expectancy---WHO
 
-The aim of this project is to determine the facors affecting life expectancy in the world and also to train a ML algorithm to predict life expectancy.
+The aim of this project is to determine the factors affecting life expectancy in the world and also to train a ML algorithm to predict life expectancy.
 
 The data is gotten from [kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who).
 
